@@ -112,7 +112,7 @@ export default {
     </div>
   </div>
   <div class="bottompage">Play Count : {{ playCount }} | Source Code : <a
-      href="https://github.com/1983shiv/tic-tac-toe-game-vuejs">Github</a></div>
+      href="https://github.com/Giuseppe99a/tris-vue.git">Github</a></div>
 </template>
 
 
